@@ -8,4 +8,4 @@ Inlämningsuppgifter:
 P-uppgift:
 - Kalender_kodskelett.py – Inlämningsuppgift: kodskelett
 - Kalender_prototyp.py – Inlämningsuppgift: prototyp
-- Kalender_granskning.py – Inlämningsuppgift: granskning
+- Kalender.py – Inlämningsuppgift: slutinlämning
